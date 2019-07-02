@@ -1,0 +1,7 @@
+digraph ar2dtool_diagram { 
+rankdir=LR;
+size="1000"
+node [shape = rectangle, color="black"]; "workplace_assessment_ontology:WorkEnvironment" "workplace_assessment_ontology:Environment" ; /*classes style*/
+	"workplace_assessment_ontology:WorkEnvironment" -> "workplace_assessment_ontology:Environment" [ label = "rdfs:subClassOf" ];
+
+}

@@ -1,0 +1,16 @@
+{
+  "@context" : {
+    "Environment" : {
+      "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl#Environment"
+    },
+    "Person" : {
+      "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl#Person"
+    },
+    "WorkEnvironment" : {
+      "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl#WorkEnvironment"
+    },
+    "Condition" : {
+      "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl#Condition"
+    }
+  }
+}

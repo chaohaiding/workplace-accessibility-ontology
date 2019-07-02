@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
+}, {
+  "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl#Condition",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl#Environment",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl#Person",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl#WorkEnvironment",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
+  "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
+    "@id" : "http://www.semanticweb.org/ontologies/2019/6/workplace_assessment_ontology.owl#Environment"
+  } ]
+} ]
